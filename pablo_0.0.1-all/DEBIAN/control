@@ -1,0 +1,7 @@
+Package: pablo
+Version: 0.0.1
+Architecture: all
+Maintainer: Pablo Lee<pablo.new17@gmail.com>
+Depends: 
+Homepage: https://github.com/pablo-new17/ubuntu-deb-package-test.git
+Description: This is an test deb pack.
